@@ -7,7 +7,7 @@ This Discord selfbot written in Python allows you to control your lights through
 Before running this selfbot, ensure you have the following prerequisites:
 
 - Python 3.7 or higher installed
-- `discord.py` library (install using `pip install discord.py`)
+- `selfcord.py` library (install using `pip install selfcord.py`)
 - `phue` library (install using `pip install phue`)
 - A Philips Hue lighting system set up in your home network
 
