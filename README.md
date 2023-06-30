@@ -16,4 +16,4 @@ Before running this selfbot, ensure you have the following prerequisites:
 Replace '192.168.0.2' with the IP address of your Hue bridge.
 This selfbot listens for a specific command in Discord and responds by displaying a message with color options as reactions. When a user reacts to the message with a color emoji, the selfbot communicates with the Philips Hue bridge and changes the color of the lights accordingly.
 
-
+Very usefull: https://developers.meethue.com/develop/get-started-2/
